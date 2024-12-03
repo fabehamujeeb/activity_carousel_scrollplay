@@ -1,0 +1,25 @@
+body {
+    position: relative;
+}
+#section1 {
+    padding-top: 60px;
+    height: 500px;
+    color: navy;
+    background-color: bisque;
+}
+#section2 {
+    padding-top: 60px;
+    height: 500px;
+    color: navy;
+    background-color: bisque;
+}
+#section3 {
+    padding-top: 60px;
+    height: 500px;
+    color: navy;
+    background-color: bisque;
+}
+h2 {
+    text-decoration: underline;
+    color: maroon;
+}
